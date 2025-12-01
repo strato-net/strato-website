@@ -9,7 +9,7 @@ social:
 description: Developing innovative blockchain solutions and building secure infrastructure for digital asset finance.
 ---
 
-Ariya Amarjargal is a Software Engineer at [STRATO](https://stratomercata.com), contributing technical expertise to the development of the platform.
+Ariya Amarjargal is a Software Engineer at [STRATO](https://strato.nexus), contributing technical expertise to the development of the platform.
 
 With a strong background in software engineering and blockchain technology, Ariya plays a key role in implementing features and ensuring the platform's performance, security, and scalability.
 

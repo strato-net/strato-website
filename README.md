@@ -43,7 +43,7 @@ stratomercata-website/
 
 The `_config.yml` file contains production settings:
 - **`baseurl: ""`**: Empty for custom domain at root
-- **`url: "https://stratomercata.com"`**: Production domain
+- **`url: "https://strato.nexus"`**: Production domain
 
 For local development, Jekyll's `serve` command automatically overrides the `url` setting to `http://localhost:4000`.
 
@@ -244,7 +244,7 @@ Images are organized by source and date:
 ```
 source/images/bobsummerwill.com/2025.08.26/photo.jpeg
 source/images/linkedin.com/2025.10.07/profile.png
-source/images/stratomercata.com/2025.10.07/screenshot.png
+source/images/strato.nexus/2025.10.07/screenshot.png
 ```
 
 Always use relative paths with the `relative_url` filter for images.
@@ -292,4 +292,4 @@ This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 I
 For questions or support:
 - Open an [issue](https://github.com/stratomercata/stratomercata-website/issues)
 - Contact [@bobsummerwill](https://x.com/bobsummerwill) on X/Twitter
-- Visit [STRATO](https://www.stratomercata.com)
+- Visit [STRATO](https://www.strato.nexus)

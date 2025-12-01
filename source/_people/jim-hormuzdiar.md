@@ -11,7 +11,7 @@ social:
 description: Architecting enterprise-grade blockchain solutions since 2014.
 ---
 
-Jim Hormuzdiar is the Co-Founder and Chief Technology Officer of [BlockApps](https://blockapps.net) and [STRATO](https://stratomercata.com), bringing deep technical expertise in blockchain architecture and distributed systems.
+Jim Hormuzdiar is the Co-Founder and Chief Technology Officer of [BlockApps](https://blockapps.net) and [STRATO](https://strato.nexus), bringing deep technical expertise in blockchain architecture and distributed systems.
 
 As a co-founder of BlockApps since 2014, Jim has been instrumental in building the technical foundation of the STRATO blockchain platform, one of the earliest enterprise blockchain solutions.
 
