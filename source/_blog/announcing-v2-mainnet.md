@@ -29,6 +29,6 @@ Expect a steady drip of blog posts, documentation and videos from here on out.
 
 The code has just undergone an external security audit, and we'll make the results public in the near future.
 
-**If you have any questions or run into any issues during the transition, please [contact us](/contact/) in whatever way works best for you.  The [Telegram](https://t.me/stratomercata) channel will likely be the most responsive.**
+**If you have any questions or run into any issues during the transition, please [contact us](/contact/) in whatever way works best for you.  The [Telegram](https://t.me/strato_net) channel will likely be the most responsive.**
 
 Validator rewards and the CATA Points program will pause during the transition.

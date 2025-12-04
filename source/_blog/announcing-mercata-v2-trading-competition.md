@@ -30,9 +30,9 @@ Our team has been busy at work on a complete revamp of the Mercata application. 
 
 ## How to Join
 
-- **Join our Telegram group** – Join us in our [Telegram group](https://t.me/mercatamarket/), where we have a channel dedicated to this competition.
+- **Join our Telegram group** – Join us in our [Telegram group](https://t.me/strato_net/), where we have a channel dedicated to this competition.
 - **Sign up for a testnet account** – Visit [STRATO Mercata Testnet](https://testnet.strato.nexus/) and register a **new account** with your email. We will not fund any account with existing balances.
-- **Submit your Mercata testnet address** – Send it to our [Telegram group](https://t.me/mercatamarket/) in the **"Trading Competition 7/16-7-23"** channel.
+- **Submit your Mercata testnet address** – Send it to our [Telegram group](https://t.me/strato_net/) in the **"Trading Competition 7/16-7-23"** channel.
 - **Receive $6,000 testnet funds** – Once registered, you will be credited with $1000 each of the six available assets – USDST, GOLDST, SILVST, WBTCST, ETHST and bCSPXST – to begin trading.
 - **Report issues or exploits** – Please report any issues or exploits you encounter directly to the Telegram channel.
 - **Explore the testnet** – We are hosting a [STRATOSCAN instance](https://stratoscan-testnet.strato.nexus/) for the testnet, which you can use to inspect blocks, transactions, accounts and tokens.

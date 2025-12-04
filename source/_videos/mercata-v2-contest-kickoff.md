@@ -199,10 +199,10 @@ And then you can also participate in the pools as well. So, you can either provi
 ### Special events
 
 [[16:24]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=970s) **Victor:**
-And one other thing we want to mention is that to kind of give a good simulation of real life, throughout the contest on the [Telegram channel](https://t.me/stratomercata), we will announce special events that will happen that will impact various things on the contest and the prices of assets on the contest. So, we will announce sort of sudden airdrops where the first couple of people that respond will get additional tokens. We will announce sudden price shifts and we will announce also, you know, other things that, you know, some positions might be liquidatable on the contest.
+And one other thing we want to mention is that to kind of give a good simulation of real life, throughout the contest on the [Telegram channel](https://t.me/strato_net), we will announce special events that will happen that will impact various things on the contest and the prices of assets on the contest. So, we will announce sort of sudden airdrops where the first couple of people that respond will get additional tokens. We will announce sudden price shifts and we will announce also, you know, other things that, you know, some positions might be liquidatable on the contest.
 
 [[17:08]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=1028s) **Victor:**
-So, basically, all of those things are going to come at random times throughout the day. So, stay on your toes. Make sure you sign up to the channel, contest channel on [Telegram channel](https://t.me/stratomercata), which is called **Mercata V2 Contest 9/17 to 9/23**.
+So, basically, all of those things are going to come at random times throughout the day. So, stay on your toes. Make sure you sign up to the channel, contest channel on [Telegram channel](https://t.me/strato_net), which is called **Mercata V2 Contest 9/17 to 9/23**.
 
 [[17:27]](https://www.youtube.com/watch?v=rSfw2sgHVJE&t=1037s) **Victor:**
 And then watch out for those because they could come at any time. So, with that, I think that's a, you know, high level overview of the contest. [Bob]({{ '/people/bob-summerwill/' | relative_url }}), not sure if your audio is working better, but maybe you can chip in here and just test it out.
@@ -219,7 +219,7 @@ But, yes, we'll get you some wired headphones, [Bob]({{ '/people/bob-summerwill/
 
 ### Wrap up
 
-So, we look forward, the contest will run until the following Tuesday at 5pm.  So, everyone, we look forward to seeing you participate in the contest. We look forward to seeing any of your comments. And please provide whatever feedback that you have on the [Telegram feed](https://t.me/stratomercata).
+So, we look forward, the contest will run until the following Tuesday at 5pm.  So, everyone, we look forward to seeing you participate in the contest. We look forward to seeing any of your comments. And please provide whatever feedback that you have on the [Telegram feed](https://t.me/strato_net).
 
 Your feedback so far has been immensely helpful. And I think this is going to really make [STRATO Mercata](https://strato.nexus) into an amazing product. So, thank you very much.
 
