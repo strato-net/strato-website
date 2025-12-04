@@ -72,10 +72,10 @@ social:
   # Social media profile links (used in Schema.org Organization structured data)
   # These appear in search results and help establish site authority
   links:
-    - "https://twitter.com/stratomercata"
-    - "https://www.linkedin.com/company/stratomercata"
-    - "https://github.com/stratomercata"
-    - "https://t.me/stratomercata"
+    - "https://twitter.com/strato_net"
+    - "https://www.linkedin.com/company/strato-net"
+    - "https://github.com/strato-net"
+    - "https://t.me/strato_net"
 
 # ============================================================================
 # Jekyll Build Settings

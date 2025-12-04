@@ -656,7 +656,7 @@ So I'm just really curious to find out.
 [[41:22]](https://www.youtube.com/watch?v=15MltoqMjZU&t=2482s) **Victor:**
 Yeah, well, and so if you like this content, please join us every week.
 
-We have this at the same time. And follow us on Twitter, at [@stratomercada](https://x.com/stratomercata) with an A and join our [Telegram community](https://t.me/stratomercata).
+We have this at the same time. And follow us on Twitter, at [@strato_net](https://x.com/strato_net_) with an A and join our [Telegram community](https://t.me/strato_net).
 
 [Bob]({{ '/people/bob-summerwill/' | relative_url }}), if they wanna hear more from you, where can they find you?
 
