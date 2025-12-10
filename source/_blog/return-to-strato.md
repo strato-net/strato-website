@@ -1,64 +1,106 @@
 ---
 title: "Return to STRATO"
-date: 2025-12-09
+date: 2025-12-10
 author: "Bob Summerwill"
-img: /images/full-sheet4.png
+img: /images/personal/victor-wong/2025.12.04/slack/digitalsalesandmarketing/blockapps-strato-original.png
 description: "We are returning to our roots, and re-branding back to STRATO"
 categories: ["Announcement"]
+table_of_contents:
+  - link: "#introduction"
+    title: "History of BlockApps and STRATO"
+  - link: "#photos"
+    title: "Photo Gallery"
+  - link: "#videos"
+    title: "Videos"
+  - link: "#social-links"
+    title: "Social Links"
 ---
 
-## Introduction
+<!-- TABLE_OF_CONTENTS -->
+
+<a id="introduction"></a>
+
+## History of BlockApps and STRATO
 
 The history of [BlockApps](https://blockapps.net) and [STRATO](https://strato.nexus) is deeply intertwined with the history of the Ethereum project:
 
-- Kieren joined the Ethereum project individually in March 2014.
-- Jim started building the Ethereum Haskell client in September 2014.
-- STRATO was being used in the ConsenSys hackathon in June 2015.
-- The Haskell client was one of six mainnet compatible clients at the Frontier launch in July 2015.
-- STRATO was announced at DEVCON1 as the first Blockchain-as-a-Service offering in November 2015.
-- BlockApps spun out of ConsenSys in 2016.
-- BlockApps were founding members of the Enterprise Ethereum Alliance in 2017.
-- BlockApps was nearly a decade ahead of the game on the current Ethereum for Institutions push.
+- [Kieren](/people/kieren-james-lubin) joined the Ethereum project individually in [March 2014](https://www.earlydaysofeth.org/people/kieren-james-lubin/).
+- [Jim](/people/jim-hormuzdiar) started building the Ethereum Haskell client in [September 2014](https://github.com/jamshidh/ethereum-client-haskell/commit/60d4cadb9ebde7b126b80079dede5ca0d5604a99).
+- [STRATO](https://strato.nexus) was being used in the ConsenSys hackathon in [June 2015](https://www.youtube.com/watch?v=TJBHTT88I8k).
+- The [Haskell client](https://github.com/jamshidh/ethereum-client-haskell) was one of six mainnet compatible clients at the Frontier launch in [July 2015](https://www.earlydaysofeth.org/articles/ethereum-launches/).
+- [STRATO](https://strato.nexus) was announced at [DEVCON1](https://www.earlydaysofeth.org/articles/devcon1/) as the first [Blockchain-as-a-Service](https://www.youtube.com/watch?v=ExsTb0iglcs) offering in [November 2015](https://www.youtube.com/watch?v=x8jIUg5jXjg).
+- [BlockApps](https://blockapps.net) spun out of [Consensys](https://consensys.io) in 2016, just prior to [DEVCON2](https://www.earlydaysofeth.org/articles/devcon2/)
+- [BlockApps](https://blockapps.net) were founding members of the [Enterprise Ethereum Alliance](https://entethalliance.org) in [February 2017](https://www.reddit.com/r/ethereum/comments/5wigzd/full_eea_agenda_including_presenters/?st=izp01t8u&sh=7d3714e1).
+- [BlockApps](https://blockapps.net) worked on various enterprise blockchain projects for the following seven years.
+- [BlockApps](https://blockapps.net) were nearly a decade ahead of the game on the current [Ethereum for Institutions](https://institutions.ethereum.org) push.
 
-The STRATO Mercata project was [announced in November 2023](https://www.globenewswire.com/news-release/2023/11/30/2788271/0/en/BlockApps-Launches-Mercata-Marketplace-to-Pioneer-Access-to-Real-world-Assets-on-Web3.html) with the **Mercata** suffix to differentiate this new project from the existing enterprise use of the **STRATO** platform.
+The **Mercata Marketplace** project was [announced in November 2023](https://www.globenewswire.com/news-release/2023/11/30/2788271/0/en/BlockApps-Launches-Mercata-Marketplace-to-Pioneer-Access-to-Real-world-Assets-on-Web3.html) as a marketplace for RWAs on-chain, including carbon credits, precious metals, whiskey, art, sneakers, clothing, cards, figurines and NFTs.  Over time that marketplace application came to be called **STRATO Mercata**, on top of the **STRATO Platform** (the application platform built around the original Haskell client way back in 2015).
 
-Some people (including the author) have found the two word name to be confusing.  Was it STRATO Mercato?  STRATA Mercata?
+We launched **STRATO Mercata V2** in [October 2025](/blog/announcing-v2-mainnet/), which was pretty much an entirely new product, with new focus on basic defi with crypto, stables and tokenized previous metals.
 
-There is no conflicting use anymore, so we're going back to our roots.  **We're STRATO, plain and simple, as we were back in 2015!**
+Some people (including the author) have found the two-word naming to be confusing.  Is it **STRATO Mercato**?  **STRATA Mercata**?
 
-![logo](/images/BlockApps-logo-260x300.webp)
+So we're going back to our roots.  **We're STRATO, plain and simple, as we were back in 2015!**
 
-![kieren](/images/youtube.com/2025.12.09/MetaMaskDeveloper/TJBHTT88I8k/james-kieren-lubin.png)
+Perhaps we can even revive some of the classic merch?
 
-![logo](/images/blockapps-strato-original.png)
 
-![kieren-and-victor](/images/youtube.com/2025.12.09/epicenterbtc/-aSBcAlHREI/victor-and-kieren.png)
+<a id="photos"></a>
 
-![buenos-aires](/images/personal/bob-summerwill/photos/buenos-aires.png)
+## Photo Gallery
+
+<div style="margin-bottom: 2em;">
+  <img src="/images/personal/victor-wong/2025.12.04/slack/digitalsalesandmarketing/full-sheet4.png" alt="logo" style="max-width: 100%; height: auto; display: block;" />
+  <div style="font-style: italic; font-size: 0.9em; margin-top: 0.25em;">Original STRATO logo from 2015</div>
+</div>
+
+<div style="margin-bottom: 2em;">
+  <img src="/images/youtube.com/2025.12.09/MetaMaskDeveloper/TJBHTT88I8k/james-kieren-lubin.png" alt="kieren" style="max-width: 100%; height: auto; display: block;" />
+  <div style="font-style: italic; font-size: 0.9em; margin-top: 0.25em;">Kieren James-Lubin at <a href="https://www.youtube.com/watch?v=TJBHTT88I8k">ConsenSys dApp-a-thon</a>, June 2015</div>
+</div>
+
+<div style="margin-bottom: 2em;">
+  <img src="/images/youtube.com/2025.12.09/MetaMaskDeveloper/TJBHTT88I8k/victor-wong.png" alt="victor" style="max-width: 100%; height: auto; display: block;" />
+  <div style="font-style: italic; font-size: 0.9em; margin-top: 0.25em;">Victor Wong at <a href="https://www.youtube.com/watch?v=TJBHTT88I8k">ConsenSys dApp-a-thon</a>, June 2015</div>
+</div>
+
+<div style="margin-bottom: 2em;">
+  <img src="/images/youtube.com/2025.12.09/vic4wong/4keTXPSNZVk/team-photo.png" alt="team-photo" style="max-width: 100%; height: auto; display: block;" />
+  <div style="font-style: italic; font-size: 0.9em; margin-top: 0.25em;">Team photos, with Victor Wong, Jim Hormuzdiar, Kieren James-Lubin, Kristoffer Josefsson and Ryan Reich, October 2015</div>
+</div>
+
+<div style="margin-bottom: 2em;">
+  <img src="/images/youtube.com/2025.12.09/epicenterbtc/-aSBcAlHREI/victor-and-kieren.png" alt="kieren-and-victor" style="max-width: 100%; height: auto; display: block;" />
+  <div style="font-style: italic; font-size: 0.9em; margin-top: 0.25em;">Victor Wong and Kieren James-Lubin being interviewed on <a href="https://epicenter.tv/">Bitcoin Epicenter</a> at DEVCON1 in London, November 2015</div>
+</div>
+
+<div style="margin-bottom: 2em;">
+  <img src="/images/personal/bob-summerwill/photos/buenos-aires.png" alt="buenos-aires" style="max-width: 100%; height: auto; display: block;" />
+  <div style="font-style: italic; font-size: 0.9em; margin-top: 0.25em;">Team dinner with Kieren James-Lubin, <a href="https://www.earlydaysofeth.org/people/zsolt-felfoldi/">Zsolt Felföldi (Geth team)</a>, Natasha Hormuzdiar, Jim Hormuzdiar, Bob Summerwill and Victor Wong at <a href="https://devconnect.org/">Devconnect</a> in Buenos Aires, with Kieren rocking the vintage merch, November 2025</div>
+</div>
+
+
+<a id="videos"></a>
+
+## Videos
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/TJBHTT88I8k"
   title="ConsenSys dApp-a-thon Recap"
-  description="A recap video of the ConsenSys dApp-a-thon, one of the first Ethereum hackathons held just before Ethereum's mainnet launch in 2015."
-  site="https://www.youtube.com/"
-  author="ConsenSys"
+  site="https://www.youtube.com/@MetaMaskDeveloper"
+  author="MetaMask"
   date="June 25, 2015"
+  description="A recap video of the ConsenSys dApp-a-thon, one of the first Ethereum hackathons held just before Ethereum's mainnet launch in 2015."
 %}
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/jeCLfFCOIM4"
   title="ConsenSys dApp-a-thon 2 Recap"
-  description="Recap of the 48-hour ConsenSys dApp-a-thon hackathon held August 14-16, 2015, where 12 teams built decentralized applications on Ethereum using BlockApps, EtherCamp IDE, and Lightwallet."
-  site="https://www.youtube.com/"
-  author="ConsenSys"
+  site="https://www.youtube.com/@MetaMaskDeveloper"
+  author="MetaMask"
   date="August 14, 2015"
+  description="Recap of the 48-hour ConsenSys dApp-a-thon hackathon held August 14-16, 2015, where 12 teams built decentralized applications on Ethereum using BlockApps, EtherCamp IDE, and Lightwallet."
 %}
-
-![introducing-blockapps](/images/youtube.com/2025.12.09/vic4wong/4keTXPSNZVk/introducing-blockapps.png)
-
-![team-photo](/images/youtube.com/2025.12.09/vic4wong/4keTXPSNZVk/team-photo.png)
-
-![thanks-from-blockapps](/images/youtube.com/2025.12.09/vic4wong/4keTXPSNZVk/thanks-from-blockapps.png)
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/4keTXPSNZVk"
@@ -69,7 +111,7 @@ There is no conflicting use anymore, so we're going back to our roots.  **We're 
 %}
 
 {% include content-embed.html
-  src="https://www.youtube.com/embed/x8jIUg5jXjg"
+  src="https://www.youtube.com/embed/ExsTb0iglcs"
   title="DEVCON1: Microsoft Announcing Ethereum Blockchain as a Service (ETH BaaS) on Azure Cloud"
   site="https://www.youtube.com/@EthereumProtocol"
   author="Ethereum"
@@ -77,18 +119,12 @@ There is no conflicting use anymore, so we're going back to our roots.  **We're 
 %}
 
 {% include content-embed.html
-  src="https://www.youtube.com/embed/ExsTb0iglcs"
+  src="https://www.youtube.com/embed/x8jIUg5jXjg"
   title="DEVCON 1: BlockApps STRATO - Victor Wong, Kieren James-Lubin, Jim Hormuzdiar"
   site="https://www.youtube.com/@EthereumProtocol"
   author="Ethereum"
   date="November 10, 2015"
 %}
-
-![devcon1 photo](https://pbs.twimg.com/media/CTcQJuZUYAA80a7?format=jpg&name=4096x4096)
-
-
-![logo](/images/STRATO-Logo_270.png)
-
 
 {% include content-embed.html
   src="https://www.youtube.com/embed/-aSBcAlHREI"
@@ -98,7 +134,11 @@ There is no conflicting use anymore, so we're going back to our roots.  **We're 
   date="December 8, 2015"
 %}
 
-<div style="margin-top: 60px; padding: 30px 0; border-top: 2px solid #e0e0e0;">
+<a id="social-links"></a>
+
+## Social Links
+
+<div style="margin-top: 60px; padding: 30px 0;">
   <h3 style="text-align: center; margin-bottom: 30px; font-size: 1.5em; color: #333;">Connect with STRATO</h3>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 20px; max-width: 800px; margin: 0 auto; justify-items: center;">
     <a href="https://twitter.com/strato_net" target="_blank" rel="noopener" style="display: flex; flex-direction: column; align-items: center; text-decoration: none; color: #333; transition: transform 0.2s;">
